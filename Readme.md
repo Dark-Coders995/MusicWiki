@@ -20,3 +20,6 @@ MusicWiki is an unofficial Last.fm app that contains information about different
   - Artist 
     - It should display the image, title ,play count and followers,description, a list of top tracks and top albums and the genres. Clicking on the genre it should display the details about the genre, similar to the flow in the first screen.
     - Clicking on the album should show its information.
+
+    # Video Demonstration Link
+https://drive.google.com/file/d/1mkeX_VNoVQF4jgMMHWt-W3FeHm0xB6Rb/view?usp=drivesdk
